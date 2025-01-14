@@ -1,0 +1,2 @@
+Iteration,learning_rate,num_dense_layers,num_dense_nodes,activation,num_conv_layers,filter_size,kernel_size,evaluate_ind
+1,0.001380153013375295,1,483,relu,4,128,"(7, 7)",0.7247999906539917
